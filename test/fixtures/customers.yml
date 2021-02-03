@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event: MyText
+  email: MyText
+  name: MyText
+  pastry_id: 1
+
+two:
+  event: MyText
+  email: MyText
+  name: MyText
+  pastry_id: 1
